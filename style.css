@@ -1,0 +1,39 @@
+.city-container{
+   display:flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+    margin-top: 50px;
+    margin: bottom 400px;
+    margin-right: 300px;
+    margin-left: 300px;
+    background-color: rgb(222, 135, 179);
+    box-shadow: rgba(198, 186, 186, 0.35) 0px 5px 15px;
+    height:200px;
+    font-size: 2em;
+}
+
+button{
+    background-color: #5a216d; 
+    border: none;
+    color: rgb(241, 245, 248);
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-top: 10px;
+    width: 120px;
+}
+input{ width: 100%;
+    padding: 20px 20px;
+    margin: 8px 10px;
+    display: inline-block;
+    border: 1px solid rgb(153, 210, 222);
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
